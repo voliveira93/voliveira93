@@ -56,7 +56,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=voliveira93&show_icons=true&count_private=true&hide_border=true" alt="voliveira93" align="center" /></div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voliveira93&show_icons=true&locale=en&layout=compact" alt="voliveira93" /></p>
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=voliveira93&show_icons=true&locale=en&layout=compact" alt="voliveira93" align="center" /></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=voliveira93&&style=flat-square" align="center" />
