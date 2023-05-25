@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on acquiring knowledge on [Github](https://github.com/voliveira93)  
   
 
-- 🌱 I’m currently learning English, HTML5, CSS, Javascript  
+- 🌱 I’m currently learning English, Pyhton and Financial Market  
   
 
 - ❓ I like to know different cultures and knowledge  
@@ -26,12 +26,11 @@
 
 
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+### Studying  
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img style="margin: 10px" src="https://veebsy.com/wp-content/uploads/2021/07/shutterstock_1196303542-1024x1024.jpg" alt="English" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="PYTHON" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/Financial_market" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/Financial_market#/media/File:Philippine-stock-market-board.jpg" alt="Financial Market" height="50" /></a>
 </div>
 
 <br/>  
@@ -64,16 +63,4 @@
   
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22kq5by57ghrpx2x2eziqft2i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>
-<br />
-
 ----
