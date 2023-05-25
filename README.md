@@ -30,7 +30,7 @@
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img style="margin: 10px" src="https://veebsy.com/wp-content/uploads/2021/07/shutterstock_1196303542-1024x1024.jpg" alt="English" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="PYTHON" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/Financial_market" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/Financial_market#/media/File:Philippine-stock-market-board.jpg" alt="Financial Market" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/Financial_market" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/teepublic/image/private/s--QCuR7y0J--/t_Preview/b_rgb:000000,c_limit,f_auto,h_630,q_90,w_630/v1588741368/production/designs/9844266_0.jpg" alt="Financial Market" height="50" /></a>
 </div>
 
 <br/>  
@@ -62,5 +62,4 @@
 </div>  
   
 
-<br/>  
-----
+<br/>
